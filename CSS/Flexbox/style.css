@@ -14,8 +14,8 @@ body{
 
 .banipal-gourmet-container{
     width: 95vw;
-    /* height: 95vh;     */
-    background-color: #000;
+    height: 95vh;     
+    background-color: #00000099;
 }
 
 h2{
@@ -42,3 +42,16 @@ header{
     width: 30%;
 }
 
+
+.div-header-3{
+    width: 33%;
+    
+    background-color: blue;
+}
+
+.div-header-2{
+    width: 33%;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+}
