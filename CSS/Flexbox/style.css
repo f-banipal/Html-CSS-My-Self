@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./img/backsideimg.png);
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+} 
+
+.banipal-gourmet-container{
+    width: 95vw;
+    /* height: 95vh;     */
+    background-color: #000;
+}
+
+h2{
+    color: #fff;
+}
+
+header{
+    height: auto;
+   
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.div-header{
+    height: 100%;
+}
+
+.img1{
+    width: 40%;
+}
+.img2{
+    width: 30%;
+}
+
